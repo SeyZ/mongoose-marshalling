@@ -1,0 +1,12 @@
+{
+  "name": "mongoose-marshalling",
+  "description": "Mongoose marshalling plugin",
+  "version": "0.0.1",
+  "author": "Sandro Munda <sandro@munda.me>",
+  "repository": "git://github.com/seyz/mongoose-marshalling",
+  "main": "./index.js",
+  "dependencies": {
+    "mongoose": "~3.6.4",
+    "underscore": "~1.4.4"
+  }
+}
